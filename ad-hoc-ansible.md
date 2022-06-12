@@ -1,0 +1,8 @@
+...
+ansible localhost -m ping
+...
+
+
+
+
+
